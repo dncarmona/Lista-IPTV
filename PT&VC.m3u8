@@ -1,0 +1,1132 @@
+﻿#EXTM3U
+#EXTINF:0,MTV PORTUGAL
+#EXTGRP:Musical
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/692.ts
+#EXTINF:0,MTV ROCKS
+#EXTGRP:Musical
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/918.ts
+#EXTINF:0,MTV MUSIC
+#EXTGRP:Musical
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/919.ts
+#EXTINF:0,MTV DANCE
+#EXTGRP:Musical
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/920.ts
+#EXTINF:0,MCM POP
+#EXTGRP:Musical
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/788.ts
+#EXTINF:0,VH1
+#EXTGRP:Musical
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/277.ts
+#EXTINF:0,VH1 CLASSIC
+#EXTGRP:Musical
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1036.ts
+#EXTINF:0,NAT. GEOGRAPHIC
+#EXTGRP:Documentários
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/211.ts
+#EXTINF:0,DISCOVERY CHANNEL
+#EXTGRP:Documentários
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/180.ts
+#EXTINF:0,CANAL HISTORIA
+#EXTGRP:Documentários
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/516.ts
+#EXTINF:0,RTP 1
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1505.ts
+#EXTINF:0,RTP 2
+#EXTGRP:Generalistas
+hhttp://painel.soeu.ws:8000/live/duartecarmona/carmonad/1506.ts
+#EXTINF:0,SIC
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1508.ts
+#EXTINF:0,TVI
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1507.ts
+#EXTINF:0,SIC MULHER
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/219.ts
+#EXTINF:0,SIC RADICAL
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/194.ts
+#EXTINF:0,SIC CARAS
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/204.ts
+#EXTINF:0,AXN HD
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/217.ts
+#EXTINF:0,AXN WHITE HD
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/237.ts
+#EXTINF:0,AXN BLACK HD
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/238.ts
+#EXTINF:0,FOX HD
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/215.ts
+#EXTINF:0,FOX LIFE HD
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/235.ts
+#EXTINF:0,TV SERIES HD
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/233.ts
+#EXTINF:0,RTP 3
+#EXTGRP:Informação
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/212.ts
+#EXTINF:0,SIC NOTICIAS
+#EXTGRP:Informação
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/195.ts
+#EXTINF:0,TVI 24
+#EXTGRP:Informação
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/190.ts
+#EXTINF:0,RTP INTERNACIONAL
+#EXTGRP:Informação
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1395.ts
+#EXTINF:0,TVCINE 1 HD
+#EXTGRP:Cinema
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/229.ts
+#EXTINF:0,TVCINE 2 HD
+#EXTGRP:Cinema
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/230.ts
+#EXTINF:0,TVCINE 3 HD
+#EXTGRP:Cinema
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/231.ts
+#EXTINF:0,TVCINE 4 HD
+#EXTGRP:Cinema
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/232.ts
+#EXTINF:0,HOLLYWOOD HD
+#EXTGRP:Cinema
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/234.ts
+#EXTINF:0,AMC
+#EXTGRP:Cinema
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/522.ts
+#EXTINF:0,FOX MOVIES
+#EXTGRP:Cinema
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/513.ts
+#EXTINF:0,SPORTV + FULL HD
+#EXTGRP:Desporto
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1477.ts
+#EXTINF:0,SPORTV 1 FULL HD
+#EXTGRP:Desporto
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1476.ts
+#EXTINF:0,SPORTV 2 FULL HD
+#EXTGRP:Desporto
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1475.ts
+#EXTINF:0,SPORTV 3 FULL HD
+#EXTGRP:Desporto
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1474.ts
+#EXTINF:0,SPORTV 4 FULL HD
+#EXTGRP:Desporto
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1473.ts
+#EXTINF:0,SPORTV 5 FULL HD
+#EXTGRP:Desporto
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1472.ts
+#EXTINF:0,BTV 1 FULL HD
+#EXTGRP:Desporto
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1479.ts
+#EXTINF:0,EUROSPORT 2 XTRA FULL HD
+#EXTGRP:Desporto
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1478.ts
+#EXTINF:0,DISNEY CHANNEL
+#EXTGRP:Infantil
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/282.ts
+#EXTINF:0,DISNEY JUNIOR
+#EXTGRP:Infantil
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/243.ts
+#EXTINF:0,CANAL PANDA
+#EXTGRP:Infantil
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/283.ts
+#EXTINF:0,PANDA BIGGS
+#EXTGRP:Infantil
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/279.ts
+#EXTINF:0,SIC K
+#EXTGRP:Infantil
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/188.ts
+#EXTINF:0,CANAL Q
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/198.ts
+#EXTINF:0,PORTO CANAL
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/196.ts
+#EXTINF:0,CM TV
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/186.ts
+#EXTINF:0,RTP MEMORIA
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/700.ts
+#EXTINF:0,RTP AFRICA
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/518.ts
+#EXTINF:0,RTP MADEIRA
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/697.ts
+#EXTINF:0,RTP ACORES
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/698.ts
+#EXTINF:0,TVI REALTY
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/689.ts
+#EXTINF:0,TVI REALTY CAMERA 1
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1394.ts
+#EXTINF:0,TVI REALTY CAMERA 2
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1393.ts
+#EXTINF:0,TVI REALTY CAMERA 3
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1392.ts
+#EXTINF:0,TVI REALTY CAMERA 4
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1391.ts
+#EXTINF:0,TVI REALTY MOSAICO
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1390.ts
+#EXTINF:0,TVI FICCAO
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/213.ts
+#EXTINF:0,ARTV
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/852.ts
+#EXTINF:0,TV RECORD
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/189.ts
+#EXTINF:0,GLOBO
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/512.ts
+#EXTINF:0,GLOBO PREMIUM
+#EXTGRP:Generalistas
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/511.ts
+#EXTINF:0,A BOLA TV
+#EXTGRP:Desporto
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/199.ts
+#EXTINF:0,SPORTING TV HD
+#EXTGRP:Desporto
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/203.ts
+#EXTINF:0,EUROSPORT HD
+#EXTGRP:Desporto
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/207.ts
+#EXTINF:0,EUROSPORT 2
+#EXTGRP:Desporto
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/227.ts
+#EXTINF:0,EUROSPORT 2 XTRA
+#EXTGRP:Desporto
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/899.ts
+#EXTINF:0,CINEMUNDO
+#EXTGRP:Cinema
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/523.ts
+#EXTINF:0,MOV HD
+#EXTGRP:Cinema
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/521.ts
+#EXTINF:0,SUNDANCE
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/780.ts
+#EXTINF:0,SYFY
+#EXTGRP:Cinema
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/182.ts
+#EXTINF:0,FOX CRIME HD
+#EXTGRP:Cinema
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/236.ts
+#EXTINF:0,FOX COMEDY
+#EXTGRP:Cinema
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/693.ts
+#EXTINF:0,CRIME   INVESTIGATION
+#EXTGRP:Cinema
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1398.ts
+#EXTINF:0,E! ENTERTAINMENT
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/239.ts
+#EXTINF:0,CBS REALITY
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/517.ts
+#EXTINF:0,MCS LIFESTYLE
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/790.ts
+#EXTINF:0,NAT GEO WILD
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/242.ts
+#EXTINF:0,DISCOVERY SHOWCASE
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/514.ts
+#EXTINF:0,TLC
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/240.ts
+#EXTINF:0,A & E
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/284.ts
+#EXTINF:0,ODISSEIA
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/280.ts
+#EXTINF:0,24 KITCHEN
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/241.ts
+#EXTINF:0,FOOD NETWORK
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/695.ts
+#EXTINF:0,TRAVEL CHANNEL
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/509.ts
+#EXTINF:0,FASHION TV
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/696.ts
+#EXTINF:0,LUXE TV
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/783.ts
+#EXTINF:0,FINE LIVING HD
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/870.ts
+#EXTINF:0,ZEE TV
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/867.ts
+#EXTINF:0,MAX
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/869.ts
+#EXTINF:0,ETV HD
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/707.ts
+#EXTINF:0,TRACE URBAN HD
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/868.ts
+#EXTINF:0,TRACE TV
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/787.ts
+#EXTINF:0,C-MUSIC
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/865.ts
+#EXTINF:0,iCONCERTS
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/704.ts
+#EXTINF:0,VIRGIN TV
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1500.ts
+#EXTINF:0,AFRO TV
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/515.ts
+#EXTINF:0,MEZZO
+#EXTGRP:unsorted
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/781.ts
+#EXTINF:0,CARTOON NETWORK
+#EXTGRP:Infantil
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/519.ts
+#EXTINF:0,JIM JAM
+#EXTGRP:Infantil
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/281.ts
+#EXTINF:0,NICKELODEON
+#EXTGRP:Infantil
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/205.ts
+#EXTINF:0,BABY TV
+#EXTGRP:Infantil
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/187.ts
+#EXTINF:0,BABY FIRST
+#EXTGRP:Infantil
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/1504.ts
+#EXTINF:0,############# VIDEOCLUB #############
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/live/duartecarmona/carmonad/835.ts
+#EXTINF:0,WHILE WERE YOUNG
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1509.mp4
+#EXTINF:0,WARCAFT
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1510.mp4
+#EXTINF:0,TUMBLEDOWN
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1511.mp4
+#EXTINF:0,THIS IS THE END
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1512.mp4
+#EXTINF:0,THE TRANSPORTER REFUELED
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1513.mp4
+#EXTINF:0,THE SIEGE OF JADOTVILLE
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1514.mp4
+#EXTINF:0,THE SHALLOWS
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1515.mp4
+#EXTINF:0,THE SECRET LIFE OF PETS
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1516.mp4
+#EXTINF:0,THE PURGE ELECTION YEAR
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1517.mp4
+#EXTINF:0,THE MAN WHO KNEW INFINITY
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1518.mp4
+#EXTINF:0,THE LITTLE DEATH
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1519.mp4
+#EXTINF:0,THE JUNGLE BOOK
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1520.mp4
+#EXTINF:0,THE INFILTRATOR
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1521.mp4
+#EXTINF:0,THE FUNDAMENTALS OF CARING
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1522.mp4
+#EXTINF:0,THE FINAL GIRLS
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1523.mp4
+#EXTINF:0,THE ESCORT
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1524.mp4
+#EXTINF:0,THE CONJURING 2
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1525.mp4
+#EXTINF:0,TED 2
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1526.mp4
+#EXTINF:0,SWISS ARMY MAN
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1527.mp4
+#EXTINF:0,SULTAN
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1528.mp4
+#EXTINF:0,SUICIDE SQUAD
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1529.mp4
+#EXTINF:0,SPY
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1530.mp4
+#EXTINF:0,RUAS RIVAIS
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1531.mp4
+#EXTINF:0,ROBINSON CRUSOE
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1532.mp4
+#EXTINF:0,RATCHET E CLANK HEROIS DA GALAXIA- HEROIS DA GALAXIA
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1533.mp4
+#EXTINF:0,R.L. STINES MONSTERVILLE
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1534.mp4
+#EXTINF:0,POPSTAR NEVES STOP
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1535.mp4
+#EXTINF:0,PEE-WEES BIG HOLIDAY
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1536.mp4
+#EXTINF:0,PATIO DAS CANTIGAS
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1537.mp4
+#EXTINF:0,PAPA OU MAMA
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1538.mp4
+#EXTINF:0,OVELHA CHONE
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1539.mp4
+#EXTINF:0,OUR KIND OF TRAITOR
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1540.mp4
+#EXTINF:0,NOW YOU SEE ME 2
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1541.mp4
+#EXTINF:0,NERVE
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1542.mp4
+#EXTINF:0,MOTHERS DAY
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1543.mp4
+#EXTINF:0,MIKE AND DAVE NEED WEDDING DATES
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1544.mp4
+#EXTINF:0,ME BEFORE YOU
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1545.mp4
+#EXTINF:0,MASCOTS
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1546.mp4
+#EXTINF:0,MARLEY AND ME
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1547.mp4
+#EXTINF:0,LOVE FRIENDSHIP
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1548.mp4
+#EXTINF:0,LITGHTS OUT
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1549.mp4
+#EXTINF:0,JUE DI TAO WANG
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1550.mp4
+#EXTINF:0,INTERNET FAMOUS
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1551.mp4
+#EXTINF:0,INDEPENDENCE DAY RESURGENCE
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1552.mp4
+#EXTINF:0,IMPERIUM 2016
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1553.mp4
+#EXTINF:0,HUNT FOR THE WILDERPEOPLE
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1554.mp4
+#EXTINF:0,GHOSTBUSTERS
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1555.mp4
+#EXTINF:0,FRIEND REQUEST
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1556.mp4
+#EXTINF:0,FREE STATE OF JONES
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1557.mp4
+#EXTINF:0,FLORENCE FOSTER JENKINS
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1558.mp4
+#EXTINF:0,EVERYBODY WANTS SOME
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1559.mp4
+#EXTINF:0,ELLE
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1560.mp4
+#EXTINF:0,DIRTY 30
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1561.mp4
+#EXTINF:0,DE PALMA
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1562.mp4
+#EXTINF:0,CENTRAL INTELLIGENCE
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1563.mp4
+#EXTINF:0,CAPTAIN FANTASTIC
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1564.mp4
+#EXTINF:0,BROKEN VOWS
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1565.mp4
+#EXTINF:0,BLUE MOUNTAIN STATE- THE RISE OF THADLAND
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1566.mp4
+#EXTINF:0,BASTILLE DAY
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1567.mp4
+#EXTINF:0,BAD MOMS
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1568.mp4
+#EXTINF:0,ARQ
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1569.mp4
+#EXTINF:0,Anomalisa
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1570.mp4
+#EXTINF:0,Angry Birds- O Filme
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1571.mp4
+#EXTINF:0,AMERICAN ULTRA
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1572.mp4
+#EXTINF:0,American Reunion
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1573.mp4
+#EXTINF:0,All The Way
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1574.mp4
+#EXTINF:0,Alice Through The Looking Glass
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1575.mp4
+#EXTINF:0,A MILLION WAYS TO DIE IN THE WEST
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1576.mp4
+#EXTINF:0,A Briliant Yong Mind
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1577.mp4
+#EXTINF:0,X Men Apocalipse
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1354.mp4
+#EXTINF:0,Warcraft
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1355.mp4
+#EXTINF:0,Viver Depois de Ti
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1356.mp4
+#EXTINF:0,Uma Aventura no Jurassico
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1357.mp4
+#EXTINF:0,Um Traidor dos Nossos
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1358.mp4
+#EXTINF:0,Um Dia de Mae
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1359.mp4
+#EXTINF:0,Todos Querem o Mesmo
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1360.mp4
+#EXTINF:0,The Midnight Man 2016
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1361.mp4
+#EXTINF:0,The Conjuring 2  A Evocacao
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1362.mp4
+#EXTINF:0,Temps
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1363.mp4
+#EXTINF:0,Tartarugas Ninja Herois Mutantes O Romper das Sombras
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1364.mp4
+#EXTINF:0,Size Zero
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1365.mp4
+#EXTINF:0,Range 15
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1366.mp4
+#EXTINF:0,Race 10 Segundos de Liberdade
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1367.mp4
+#EXTINF:0,Pele O Nascimento de Uma Lenda
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1368.mp4
+#EXTINF:0,O Livro da Selva
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1369.mp4
+#EXTINF:0,Money Monster
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1370.mp4
+#EXTINF:0,Mestres da Ilusao 2
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1371.mp4
+#EXTINF:0,Main Aur Mr Riight
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1372.mp4
+#EXTINF:0,Ma Vizinhanca 2
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1373.mp4
+#EXTINF:0,Kickboxer
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1374.mp4
+#EXTINF:0,Keanu
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1375.mp4
+#EXTINF:0,Jason Bourne
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1376.mp4
+#EXTINF:0,In the Deep
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1377.mp4
+#EXTINF:0,I Am Not a Serial Killer
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1378.mp4
+#EXTINF:0,Hard Target 2
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1379.mp4
+#EXTINF:0,Fan
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1380.mp4
+#EXTINF:0,Countdown
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1381.mp4
+#EXTINF:0,Bons Rapazes
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1382.mp4
+#EXTINF:0,Blood Father
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1383.mp4
+#EXTINF:0,Bastille Day  Missao Antiterrorista
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1384.mp4
+#EXTINF:0,Aguas Perigosas
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1385.mp4
+#EXTINF:0,A Vida Secreta dos Nossos Bichos
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1386.mp4
+#EXTINF:0,A Lenda de Tarzan
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1387.mp4
+#EXTINF:0,A Idade do Gelo O Big Bang
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1388.mp4
+#EXTINF:0,A Hologram for the King
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1389.mp4
+#EXTINF:0,Zootropolis
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/154.mp4
+#EXTINF:0,Whiskey Tango Foxtrot
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/173.mp4
+#EXTINF:0,Viram se Novamente Gregos Para Casar
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/172.mp4
+#EXTINF:0,The Young Messiah
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/152.mkv
+#EXTINF:0,The Offering
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/151.mp4
+#EXTINF:0,The Duel
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/170.mp4
+#EXTINF:0,The Do-Over
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/150.mp4
+#EXTINF:0,The Confirmation
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/171.mp4
+#EXTINF:0,The Brothers Grimsby
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/149.mp4
+#EXTINF:0,Sponge Bob Esponja Fora De Agua
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/147.mp4
+#EXTINF:0,O Nosso Milagre
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/169.mp4
+#EXTINF:0,O Escaravelho do Diabo
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/168.mp4
+#EXTINF:0,Never Back Down No Surrender
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/167.mp4
+#EXTINF:0,Minimos
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/146.mp4
+#EXTINF:0,Marauders
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/166.mp4
+#EXTINF:0,Manhattan Night
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/145.mp4
+#EXTINF:0,Kiddo O Super Camiao
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/144.mp4
+#EXTINF:0,Home
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/143.mp4
+#EXTINF:0,Hardcore Henry
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/142.mp4
+#EXTINF:0,Girl in Woods
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/164.mp4
+#EXTINF:0,Frozen Reino Gelo
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/153.mp4
+#EXTINF:0,Emmas Chance
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/163.mp4
+#EXTINF:0,Electra Woman and Dyna Girl
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/141.mp4
+#EXTINF:0,Eddie The Eagle
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/140.mp4
+#EXTINF:0,Demolicao
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/162.mp4
+#EXTINF:0,Deadly Intent
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/161.mp4
+#EXTINF:0,Dead Rising Endgame
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/160.mp4
+#EXTINF:0,Dads Army
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/139.mp4
+#EXTINF:0,Da Serie Divergente Convergente
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/159.mp4
+#EXTINF:0,Criminoso
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/138.mp4
+#EXTINF:0,Code of Honor
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/137.mp4
+#EXTINF:0,Cell Chamada Para a Morte
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/158.mp4
+#EXTINF:0,Brahman Naman
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/175.mp4
+#EXTINF:0,Before I Wake
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/157.mp4
+#EXTINF:0,Batman v Super Homem O Despertar da Justica
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/156.mp4
+#EXTINF:0,Barbershop The Next
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/174.mp4
+#EXTINF:0,Avioes Equipa de Resgate
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/136.mp4
+#EXTINF:0,Alice do Outro Lado do Espelho
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/155.mp4
+#EXTINF:0,Abelha Maia
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/135.mp4
+#EXTINF:0,7 Anao O Pequeno Heroi
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/133.mp4
+#EXTINF:0,13 Horas Os Soldados Secretos de Benghazi
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/134.mp4
+#EXTINF:0,Zootopia
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/127.mp4
+#EXTINF:0,Zoolander 2
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/126.mp4
+#EXTINF:0,Uma Escolha Por Amor
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/119.mp4
+#EXTINF:0,Um Avo Muito a Frente
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/83.mp4
+#EXTINF:0,Triple 9
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/125.mp4
+#EXTINF:0,The Witch
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/76.mp4
+#EXTINF:0,The Veil
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/124.mp4
+#EXTINF:0,The Trust
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/130.mkv
+#EXTINF:0,The Dead Room
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/120.mp4
+#EXTINF:0,The Boy - Segue as Regras
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/118.mp4
+#EXTINF:0,Tevar
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/117.mp4
+#EXTINF:0,Tempo Limite
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/132.mp4
+#EXTINF:0,Stealing Cars
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/116.mp4
+#EXTINF:0,Special Correspondents
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/115.mp4
+#EXTINF:0,Sniper: Special Ops
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/114.mp4
+#EXTINF:0,Salve, Cesar!
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/91.mp4
+#EXTINF:0,Sacrifice
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/113.mp4
+#EXTINF:0,Reza Lenda
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/111.mp4
+#EXTINF:0,Ressurreicao
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/112.mp4
+#EXTINF:0,Pee-wee's Big Holiday
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/109.mp4
+#EXTINF:0,Pandemic
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/75.mkv
+#EXTINF:0,OUTCAST - O ULTIMO TEMPLARIO
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/108.mp4
+#EXTINF:0,Os Deuses do Egipto
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/100.mp4
+#EXTINF:0,O Cacador e a Rainha do Gelo
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/122.mp4
+#EXTINF:0,Nowhere Boys: The Book of Shadows
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/107.mp4
+#EXTINF:0,NORM - O HEROI DO ARTICO
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/129.mp4
+#EXTINF:0,Mothers and Daughters
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/106.mp4
+#EXTINF:0,Misconduct
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/105.mp4
+#EXTINF:0,Midnight Special
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/104.mp4
+#EXTINF:0,Lego Scooby-Doo!: Haunted Hollywood
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/102.mkv
+#EXTINF:0,Leao da Estrela
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/131.mp4
+#EXTINF:0,Lake Eerie
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/94.mp4
+#EXTINF:0,Kindergarten Cop 2
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/101.mp4
+#EXTINF:0,Killing Jesus
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/88.mp4
+#EXTINF:0,Jarhead 3: The Siege
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/87.mp4
+#EXTINF:0,I Am Wrath
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/80.mp4
+#EXTINF:0,Hush
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/74.mp4
+#EXTINF:0,Horas Decisivas
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/121.mp4
+#EXTINF:0,Holidays
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/92.mp4
+#EXTINF:0,Factor de Risco
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/123.mp4
+#EXTINF:0,Emelie
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/84.mp4
+#EXTINF:0,Duplo Confronto
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/110.mp4
+#EXTINF:0,Diablo
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/90.mp4
+#EXTINF:0,Devdas
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/99.mp4
+#EXTINF:0,Decay
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/82.mp4
+#EXTINF:0,Deadpool
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/79.mp4
+#EXTINF:0,Como Ser Solteira
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/93.mp4
+#EXTINF:0,Capitao America: Guerra Civil
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/98.mp4
+#EXTINF:0,Cabin Fever
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/81.mp4
+#EXTINF:0,BROTHERS
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/97.mp4
+#EXTINF:0,Boog e Elliot Aventura Na Floresta
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/128.mp4
+#EXTINF:0,Barbie e As Agentes Secretas
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/89.mp4
+#EXTINF:0,Assalto a Londres
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/103.mp4
+#EXTINF:0,As Cinquenta Sombras de Black
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/85.mp4
+#EXTINF:0,ARRANHA CEUS
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/86.mp4
+#EXTINF:0,Antonio Raminhos Apresenta As Marias
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/96.mkv
+#EXTINF:0,Amor em Roma
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/78.mp4
+#EXTINF:0,10 Cloverfield Lane
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/77.mp4
+#EXTINF:0,Umrao Jaan
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/61.mp4
+#EXTINF:0,The Hoarder
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/64.mp4
+#EXTINF:0,The Girl in the Photographs
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/69.mp4
+#EXTINF:0,Star Wars: O Despertar da Forca
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/51.mp4
+#EXTINF:0,Snoopy e Charlie Brown: Peanuts
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/50.mp4
+#EXTINF:0,Remember
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/49.mp4
+#EXTINF:0,Ramaiya Vastavaiya
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/68.mp4
+#EXTINF:0,Policias em Grandes Apuros
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/71.mp4
+#EXTINF:0,Orgulho e Preconceito e Guerra
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/48.mp4
+#EXTINF:0,O Principezinho
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/52.mp4
+#EXTINF:0,Muito a Frente
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/67.mp4
+#EXTINF:0,Kung Fu Panda 3
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/47.mp4
+#EXTINF:0,Jazbaa
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/65.mp4
+#EXTINF:0,James White
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/63.mp4
+#EXTINF:0,Ip Man 3
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/46.mp4
+#EXTINF:0,Heropanti
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/56.mp4
+#EXTINF:0,Get a Job
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/54.mp4
+#EXTINF:0,Fourth Man Out
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/45.mp4
+#EXTINF:0,Ek Tha Tiger
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/62.mp4
+#EXTINF:0,Curse of the Witching Tree
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/55.mp4
+#EXTINF:0,Bem vindo ao Afeganistao
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/53.mp4
+#EXTINF:0,As Armas de Jane
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/59.mp4
+#EXTINF:0,A Viagem de Arlo
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/43.mp4
+#EXTINF:0,A Guarda do Leao o Regresso do Rugido
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/70.mkv
+#EXTINF:0,A 5 Vaga
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/42.mp4
+#EXTINF:0,Victor Frankenstein
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/791.mp4
+#EXTINF:0,Verdade
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/792.mp4
+#EXTINF:0,The Overnight
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/29.mp4
+#EXTINF:0,The Lobster
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/26.mp4
+#EXTINF:0,The Forest
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/25.mp4
+#EXTINF:0,The Boy
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/20.mp4
+#EXTINF:0,Terminus
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/3.mp4
+#EXTINF:0,Standoff
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/24.mp4
+#EXTINF:0,Southbound
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/23.mp4
+#EXTINF:0,So Podiam Ser Irmas
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/38.mp4
+#EXTINF:0,Sem Compromissos
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/19.mp4
+#EXTINF:0,Samurai Cop 2: Deadly Vengeance
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/39.mp4
+#EXTINF:0,Rainha do Deserto
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/22.mp4
+#EXTINF:0,Point Break Cacadores De Emocoes
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/37.mp4
+#EXTINF:0,Pan: Viagem A Terra do Nunca
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/10.mp4
+#EXTINF:0,Pai So Ha Um
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/36.mp4
+#EXTINF:0,Os Coopers Sao o Maximo
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/17.mp4
+#EXTINF:0,Os 33
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/4.mp4
+#EXTINF:0,O Segredo dos Seus Olhos
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/12.mp4
+#EXTINF:0,Moonwalkers
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/18.mp4
+#EXTINF:0,Monster High: Boo York, Boo York PT
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/9.mp4
+#EXTINF:0,Junto Ao Mar
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/41.mp4
+#EXTINF:0,Jogos da Fome - A Revolta 2
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/35.mp4
+#EXTINF:0,Jeruzalem
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/6.mp4
+#EXTINF:0,Hotel Transylvania 2 PT
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/28.mp4
+#EXTINF:0,Forsaken
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/27.mp4
+#EXTINF:0,Criminal Activities
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/16.mp4
+#EXTINF:0,Cartel Land
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/5.mp4
+#EXTINF:0,American Hero
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/14.mp4
+#EXTINF:0,Alvin e os Esquilos: A Grande Aventura
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/44.mp4
+#EXTINF:0,Adulterers
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/7.mp4
+#EXTINF:0,A Ultima Noitada
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/32.mp4
+#EXTINF:0,A Senhora da Furgoneta
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/33.mp4
+#EXTINF:0,A Modista
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/30.mp4
+#EXTINF:0,90 Minutes in Heaven
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/40.mp4
+#EXTINF:0,45 Anos
+#EXTGRP:VIDEOCLUB
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/11.mp4
+#EXTINF:0,Filmes Da Semana 1
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1349.mp4
+#EXTINF:0,Filmes da Semana 2
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1350.mp4
+#EXTINF:0,Filmes da Semana 3
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1351.mp4
+#EXTINF:0,Filmes da Semana 4
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1352.mp4
+#EXTINF:0,Filmes Da Semana 5
+#EXTGRP:VIDEOCLUB
+http://painel.soeu.ws:8000/movie/duartecarmona/carmonad/1353.mp4
